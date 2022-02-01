@@ -2,8 +2,8 @@
 Creating a project for music recommendation system.
 
 Team Members :
-Devangraj Vaidya
-Yash Shah
-Jaydutt Joshi
-Shariq Shaikh
-Keith Frank
+Devangraj Vaidya,
+Yash Shah,
+Jaydutt Joshi,
+Shariq Shaikh,
+Keith Frank.
